@@ -2,4 +2,4 @@
 
 ![](images/cat.jpg)
 
-Pleaase leave immediately!
+Please leave immediately\
